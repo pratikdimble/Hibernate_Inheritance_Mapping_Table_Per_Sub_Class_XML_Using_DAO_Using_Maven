@@ -1,0 +1,1 @@
+# Hibernate_Inheritance_Mapping_Table_Per_Sub_Class_XML_Using_DAO_Using_Maven
